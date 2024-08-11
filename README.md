@@ -21,6 +21,8 @@ Graphical Representation: Visualizes data trends using charts to help users unde
 
 
 Tech Stack:
+
+
 Flutter: For building the cross-platform mobile application.
 
 
