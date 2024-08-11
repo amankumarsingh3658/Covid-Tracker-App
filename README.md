@@ -8,6 +8,8 @@ Search Functionality: Easily search for specific states or regions to quickly ac
 User-Friendly UI: A clean and intuitive interface designed with Flutter, ensuring a seamless user experience.
 Dark Mode: Supports dark mode for better usability in low-light conditions.
 Graphical Representation: Visualizes data trends using charts to help users understand the progression of the pandemic.
+
+
 Tech Stack:
 Flutter: For building the cross-platform mobile application.
 India COVID-19 API: To retrieve up-to-date COVID-19 statistics.
